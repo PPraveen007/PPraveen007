@@ -64,11 +64,11 @@ REST APIs, JSON, Web Deployment, Debugging
 📫 **Contact:** [praveenrajofficial007@gmail.com](mailto:praveenrajofficial007@gmail.com)
 
 ---
-
+<!---
 <p align="center">
   <img src="https://github.com/PPraveen007.png" width="120" style="border-radius: 50%;" alt="PPraveen007's profile picture"/>
 </p>
-
+-->
 <!-- Optionally, add a banner or tech stack graphic here -->
 
 ---
